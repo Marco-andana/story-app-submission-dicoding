@@ -1,0 +1,8 @@
+@use 'variables' as *;
+
+.navbar {
+  background-color: $primary-color;
+  .nav-link {
+    color: white;
+  }
+}

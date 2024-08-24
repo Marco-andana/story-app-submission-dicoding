@@ -1,0 +1,7 @@
+.card {
+    @include card-style;
+    .card-title {
+      font-size: 1.25rem;
+      color: $primary-color;
+    }
+  }
